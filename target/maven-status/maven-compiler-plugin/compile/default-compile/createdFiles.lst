@@ -1,0 +1,5 @@
+net\stakater\springboot\StakaterRestApplication.class
+net\stakater\springboot\exception\ErrorDetails.class
+net\stakater\springboot\exception\ResourceNotFoundException.class
+net\stakater\springboot\controller\NameController.class
+net\stakater\springboot\exception\GlobalExceptionHandler.class
